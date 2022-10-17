@@ -1,6 +1,6 @@
 # kotlin-study
 
-1. 코틀린 ?
+1. [코틀린 ?](https://github.com/rissins/kotlin-study/blob/main/src/main/kotlin/study/docs/1.kotlin.md)
 2. 코틀린 기초
 3. 함수의 정의와 호출
 4. 클래스, 객체, 인터페이스
